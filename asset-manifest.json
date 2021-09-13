@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/misbaha/static/css/main.d8d351e3.chunk.css",
+    "main.js": "/misbaha/static/js/main.8493cfd2.chunk.js",
+    "main.js.map": "/misbaha/static/js/main.8493cfd2.chunk.js.map",
+    "runtime-main.js": "/misbaha/static/js/runtime-main.f2ecfeab.js",
+    "runtime-main.js.map": "/misbaha/static/js/runtime-main.f2ecfeab.js.map",
+    "static/css/2.f2512455.chunk.css": "/misbaha/static/css/2.f2512455.chunk.css",
+    "static/js/2.afaf2ca3.chunk.js": "/misbaha/static/js/2.afaf2ca3.chunk.js",
+    "static/js/2.afaf2ca3.chunk.js.map": "/misbaha/static/js/2.afaf2ca3.chunk.js.map",
+    "static/js/3.ec4b4443.chunk.js": "/misbaha/static/js/3.ec4b4443.chunk.js",
+    "static/js/3.ec4b4443.chunk.js.map": "/misbaha/static/js/3.ec4b4443.chunk.js.map",
+    "index.html": "/misbaha/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/misbaha/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.d8d351e3.chunk.css.map": "/misbaha/static/css/main.d8d351e3.chunk.css.map",
+    "static/js/2.afaf2ca3.chunk.js.LICENSE.txt": "/misbaha/static/js/2.afaf2ca3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ecfeab.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.afaf2ca3.chunk.js",
+    "static/css/main.d8d351e3.chunk.css",
+    "static/js/main.8493cfd2.chunk.js"
+  ]
+}
